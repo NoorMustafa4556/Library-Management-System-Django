@@ -45,7 +45,7 @@ To get a local copy up and running, follow these simple steps.
     git clone https://github.com/NoorMustafa4556/Library-Management-System-Django-.git
     ```
 
-2.  **Navigate to the project directory:**
+2.  **Navigate to the main project directory:**
     ```bash
     cd Library-Management-System-Django-
     ```
@@ -53,31 +53,36 @@ To get a local copy up and running, follow these simple steps.
 3.  **Create and activate a virtual environment:**
     ```bash
     # Create venv
-    python -m venv venv
+    python -m venv Venv
 
     # Activate on Windows
-    venv\Scripts\activate
+    Venv\Scripts\activate
     ```
 
-4.  **Install the required dependencies:**
+4.  **Navigate into the Django project folder (where manage.py is):**
+    ```bash
+    cd myproject
+    ```
+
+5.  **Install the required dependencies:**
     (This will install Django, Pillow, etc.)
     ```bash
     pip install -r requirements.txt
     ```
 
-5.  **Apply database migrations:**
+6.  **Apply database migrations:**
     (This will create the database tables for our models)
     ```bash
     python manage.py migrate
     ```
 
-6.  **Create a superuser to access the admin panel:**
+7.  **Create a superuser to access the admin panel:**
     (Follow the prompts to create an admin account)
     ```bash
     python manage.py createsuperuser
     ```
 
-7.  **Run the development server:**
+8.  **Run the development server:**
     ```bash
     python manage.py runserver
     ```
@@ -94,5 +99,6 @@ To get a local copy up and running, follow these simple steps.
     -   Create a new account using the "Sign Up" button.
     -   Log in with your new account.
     -   You can now browse books, filter by category, and request any book you like!
+
 
 ---
