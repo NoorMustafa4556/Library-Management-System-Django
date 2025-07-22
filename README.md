@@ -5,23 +5,20 @@ This repository contains the source code for a fully functional Library Manageme
 ---
 ## 📸 Screenshots
 
-### Home Page
-![Home Page](myproject/myapp/static/images/1.jpg)
+## 📸 Project Screenshots
 
-### Books List
-![Books List](myproject/myapp/static/images/2.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Library-Management-System-Django-/main/myproject/myapp/static/images/1.jpg" alt="Screenshot 1" width="30%" />
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Library-Management-System-Django-/main/myproject/myapp/static/images/2.jpg" alt="Screenshot 2" width="30%" />
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Library-Management-System-Django-/main/myproject/myapp/static/images/3.jpg" alt="Screenshot 3" width="30%" />
+</p>
 
-### Issue Book
-![Issue Book](myproject/myapp/static/images/3.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Library-Management-System-Django-/main/myproject/myapp/static/images/4.jpg" alt="Screenshot 4" width="30%" />
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Library-Management-System-Django-/main/myproject/myapp/static/images/5.jpg" alt="Screenshot 5" width="30%" />
+  <img src="https://raw.githubusercontent.com/NoorMustafa4556/Library-Management-System-Django-/main/myproject/myapp/static/images/6.jpg" alt="Screenshot 6" width="30%" />
+</p>
 
-### Add Member
-![Add Member](myproject/myapp/static/images/4.jpg)
-
-### Add Book
-![Add Book](myproject/myapp/static/images/5.jpg)
-
-### Admin Dashboard
-![Admin Dashboard](myproject/myapp/static/images/6.jpg)
 
 
 ## Features
