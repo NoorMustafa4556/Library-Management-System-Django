@@ -3,7 +3,7 @@
 This repository contains the source code for a fully functional Library Management System (LMS) developed using the Django framework. The project demonstrates core Django concepts such as MVT architecture, ORM, user authentication, and admin panel customization. It features a clean, responsive user interface for browsing and requesting books, and a powerful backend for administrators to manage the entire library inventory and user requests efficiently.
 
 ---
-## 📸 Screenshots
+
 
 ## 📸 Project Screenshots
 
