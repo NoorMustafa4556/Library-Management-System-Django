@@ -68,38 +68,40 @@ To get a local copy up and running, follow these simple steps.
     ```
 
 3.  **Create and activate a virtual environment:**
+    
+    ## Create venv
     ```bash
-    # Create venv
     python -m venv Venv
-
-    # Activate on Windows
+    ```
+    ## Activate on Windows
+    ```bash
     Venv\Scripts\activate
     ```
 
-4.  **Navigate into the Django project folder (where manage.py is):**
+5.  **Navigate into the Django project folder (where manage.py is):**
     ```bash
     cd myproject
     ```
 
-5.  **Install the required dependencies:**
+6.  **Install the required dependencies:**
     (This will install Django, Pillow, etc.)
     ```bash
     pip install -r requirements.txt
     ```
 
-6.  **Apply database migrations:**
+7.  **Apply database migrations:**
     (This will create the database tables for our models)
     ```bash
     python manage.py migrate
     ```
 
-7.  **Create a superuser to access the admin panel:**
+8.  **Create a superuser to access the admin panel:**
     (Follow the prompts to create an admin account)
     ```bash
     python manage.py createsuperuser
     ```
 
-8.  **Run the development server:**
+9.  **Run the development server:**
     ```bash
     python manage.py runserver
     ```
@@ -119,7 +121,7 @@ To get a local copy up and running, follow these simple steps.
 
 
 ---
-# 👋 Hi, I'm Noor Mustafa
+# 👋🏻 Hi, I'm Noor Mustafa
 
 A passionate and results-driven **Flutter Developer** from **Bahawalpur, Pakistan**, specializing in building elegant, scalable, and high-performance cross-platform mobile applications using **Flutter** and **Dart**.
 
@@ -129,7 +131,7 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
 
 ## 🚀 What I Do
 
-- 🧑‍💻 **Flutter App Development** – I build cross-platform apps for Android, iOS, and the web using Flutter.
+- 🧑🏻💻 **Flutter App Development** – I build cross-platform apps for Android, iOS, and the web using Flutter.
 - 🔗 **API Integration** – I connect apps to powerful RESTful APIs and third-party services.
 - 🎨 **UI/UX Design** – I craft responsive and animated interfaces that elevate the user experience.
 - 🔐 **Authentication & Firebase** – I implement secure login systems and integrate Firebase services.
